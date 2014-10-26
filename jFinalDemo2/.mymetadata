@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jFinalDemo2"
+  id="myeclipse.1413986202664"
+  context-root="/jFinalDemo2"
+  j2ee-spec="5.0"
+  archive="jFinalDemo2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
